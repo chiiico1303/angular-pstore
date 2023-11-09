@@ -1,0 +1,11 @@
+.small-cards-img {
+  height: 230px;
+  width: 230px;
+  border-radius: 10px;
+}
+
+.small-cards-img:hover {
+  border: 2px solid blue;
+  padding: 2px;
+  filter: brightness(0.8);
+}
